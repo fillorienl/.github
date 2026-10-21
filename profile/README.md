@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://fillorie.nl">
-    <img src="https://fillorie.nl/assets/og-image.jpg" alt="Fillorie - Making Gen AI part of your business" width="720">
+    <img src="https://fillorie.nl/assets/fillorie-mark.png" alt="Fillorie - Making Gen AI part of your business" width="720">
   </a>
 </p>
 
